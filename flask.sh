@@ -1,3 +1,4 @@
+apt-get intall flask
 flask/bin/pip install flask
 flask/bin/pip install flask-login
 flask/bin/pip install flask-openid
